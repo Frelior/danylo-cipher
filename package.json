@@ -1,6 +1,7 @@
 {
   "name": "danylo-cipher",
   "private": true,
+  "repository": "https://github.com/les-danylo/danylo-cipher",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -11,6 +12,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
+    "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "^18.2.0",
     "styled-components": "^6.1.11"
   },

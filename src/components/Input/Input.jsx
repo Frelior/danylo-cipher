@@ -5,6 +5,11 @@ export default function Input({ children, onChange, ...props }) {
     <StyledInput
       {...props}
       onChange={onChange}
-    ></StyledInput>
+    >
+      <textarea
+        name=""
+        id=""
+      ></textarea>
+    </StyledInput>
   )
 }
